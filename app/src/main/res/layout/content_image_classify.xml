@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.nikhil.practonet.FitnessActivity"
-    tools:showIn="@layout/app_bar_main">
+    tools:context="com.example.nikhil.practonet.ImageClassifyActivity"
+    tools:showIn="@layout/activity_image_classify">
 
 </android.support.constraint.ConstraintLayout>

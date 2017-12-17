@@ -30,6 +30,6 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="The Networking App for Providers" />
+        android:text="A Wholesome App For Patients" />
 
 </LinearLayout>
